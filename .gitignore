@@ -1,0 +1,7 @@
+data/player_data.json
+assets/skins/
+assets/models/
+__pycache__/
+*.pyc
+*.pyo
+.env
